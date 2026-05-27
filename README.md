@@ -1,2 +1,1 @@
-# atoukoffi.github.io
-Atou Koffi Kougbanhoun
+![Alt text](images/imageMIt.jpeg)
